@@ -11,7 +11,7 @@
     
     <script>
         // Fetch file list from GitHub repository
-        fetch("https://api.github.com/repos/your-username/your-repo/contents/", {
+        fetch("https://api.github.com/repos/MangoMan223/stuff/contents/", {
             headers: {
                 Accept: "application/vnd.github.v3+json"
             }
